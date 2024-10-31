@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/yutakiba/iCV23/OpenCV4.8.0/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/yutakiba/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/yutakiba/iCV23/OpenCV4.8.0/.cxx/Debug/6x3a2i5n/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/yutakiba/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/yutakiba/iCV23/OpenCV4.8.0/.cxx/Debug/6x3a2i5n/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/Users/yutakiba/iCV23/OpenCV4.8.0/.cxx/Debug/6x3a2i5n/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

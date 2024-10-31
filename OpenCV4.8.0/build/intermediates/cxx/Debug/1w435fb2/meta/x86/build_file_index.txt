@@ -1,0 +1,1 @@
+/Users/kota/AndroidStudioProjects/iCV23/OpenCV4.8.0/libcxx_helper/CMakeLists.txt
